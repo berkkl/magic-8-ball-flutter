@@ -1,6 +1,6 @@
 # magic_8_ball
 
-This is magic 8 ball project on flutter. It's one of the first and simple projects I did while I was learning flutter via the Udemy course of Dr. Angela Yu from London App Brewery 
+This is a basic magic 8 ball project on flutter. It's one of the first and simple projects I did while I was learning flutter via the Udemy course of Dr. Angela Yu from the London App Brewery 
 
 ## Getting Started
 
